@@ -2,7 +2,7 @@
 
 SCF 无服务器云函数 Demo 代码库
 
-# Demo说明
+# Demo 说明
 
 ## 文件组织结构
 
@@ -129,6 +129,6 @@ python
 4. 每个Demo的英文名称必填且唯一,不同开发语言可以一样
 
 
-## 上传到Demo库
+## 上传到 Demo 库
 
 请参照：https://blog.csdn.net/qq_33429968/article/details/62219783
