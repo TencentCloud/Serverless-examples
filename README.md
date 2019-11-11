@@ -1,8 +1,8 @@
-# scf-demo-repo
+# Serverless-examples
 
-SCF 无服务器云函数 Demo 代码库
+该仓库是云函数 SCF 基础能力的示例，希望您可以通过云函数 SCF 的基础能力，快速构建您的 Serverless 应用。与此同时，您也可以登录腾讯云产品官网，在 Serverless 的控制台上直接使用这些基础示例。
 
-# Demo 说明
+# 说明
 
 ## 文件组织结构
 
