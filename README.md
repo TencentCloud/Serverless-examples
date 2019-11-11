@@ -2,9 +2,9 @@
 
 该仓库是云函数 SCF 基础能力的示例，希望您可以通过云函数 SCF 的基础能力，快速构建您的 Serverless 应用。与此同时，您也可以登录腾讯云产品官网，在 Serverless 的控制台上直接使用这些基础示例。
 
-# 说明
+## 说明
 
-## 文件组织结构
+#### 文件组织结构
 
 golang
 
@@ -30,7 +30,7 @@ python
 
 注：对于java语言来说入口文件是jar包，对于golang语言来说入口文件必须是可执行文件。
 
-## 配置文件说明
+#### 配置文件说明
 
 ```sh
 {
@@ -121,14 +121,10 @@ python
 * 二段式：python，nodejs，PHP，预制内容："index.main_handler"
 * 三段式：java，预制内容："example.Hello::mainHandler"
 
-# Demo 开发注意事项
+## Demo 开发注意事项
 
 1. 需要注意代码提交时不要带有 SecretID，SecretKey 等信息。
 2. 关键信息可修改为通过环境变量读取，并定义好所需配置的环境变量。
 3. Demo 描述尽量使用中文，简洁扼要的描述 Demo 的实现功能，可适用的场景，使用的方式。
-4. 每个Demo的英文名称必填且唯一,不同开发语言可以一样
-
-
-## 上传到 Demo 库
-
-请参照：https://blog.csdn.net/qq_33429968/article/details/62219783
+4. 每个 Demo 的英文名称必填且唯一,不同开发语言可以一样
+5. 上传到 Demo 库，请参照：https://blog.csdn.net/qq_33429968/article/details/62219783
