@@ -1,6 +1,6 @@
 # Serverless Examples
 
-该仓库是云函数 SCF 基础能力的示例，希望您可以通过云函数 SCF 的基础能力，快速构建您的 Serverless 应用。与此同时，您也可以登录腾讯云产品官网，在 Serverless 的控制台上直接使用这些基础示例。
+该仓库是云函数（Serverless Cloud Function，SCF）基础能力的示例，希望您可以通过云函数 SCF 的基础能力，快速构建您的 Serverless 应用。与此同时，您也可以登录腾讯云产品官网，在 Serverless 的控制台上直接使用这些基础示例。
 
 ## 说明
 
